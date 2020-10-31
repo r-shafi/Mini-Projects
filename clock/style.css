@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #0f1928;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fdfdfc;
+  margin: 1rem 0;
+}
+
+p {
+  font-size: 2rem;
+  color: #f8b500;
+}
+
+.control {
+  font-size: 1.5rem;
+  color: #f8b500;
+  padding: 5px 1.5rem;
+  border: 3px solid #00adb5;
+  border-radius: 10px;
+}
+
+.now span {
+  font-size: 2rem;
+  color: #f8b500;
+}

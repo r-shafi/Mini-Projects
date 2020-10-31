@@ -6,7 +6,7 @@
 - [ ] Calculator
 - [ ] Todo List
 - [ ] Form Validation
-- [ ] Clock
+- [x] Clock
 - [ ] Guitar
 - [ ] Progress Bar
 - [x] Note
@@ -22,6 +22,10 @@ Nothing new
 
 JavaScript localStorage API
 
-## Photo Gallery // // 31-10-20
+## Photo Gallery // 31-10-20
 
 I already knew everything
+
+## Clock // 31-10-20
+
+Nothing Sherlock 🔎
