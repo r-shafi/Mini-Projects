@@ -1,8 +1,8 @@
 # JS Mini Projects
 
 - [ ] Memory Card Game
-- [x] Popup // 30-10-20
-- [ ] Photo Gallery
+- [x] Popup
+- [x] Photo Gallery
 - [ ] Calculator
 - [ ] Todo List
 - [ ] Form Validation
@@ -21,3 +21,7 @@ Nothing new
 ## Note // 30-10-20
 
 JavaScript localStorage API
+
+## Photo Gallery // // 31-10-20
+
+I already knew everything
