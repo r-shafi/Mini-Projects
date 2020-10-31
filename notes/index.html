@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>NOTES</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>MyNotes</h1>
+        <nav>
+          <button id="newNote">+</button>
+          <p>Notes: <span id="count"></span></p>
+        </nav>
+      </header>
+      <div class="create">
+        <form>
+          <label for="title">Title:</label>
+          <input type="text" id="title" />
+          <label for="desc">Description:</label>
+          <input id="desc" type="text" />
+          <button id="addNew" type="submit">CREATE</button>
+        </form>
+      </div>
+      <div class="notes"></div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
