@@ -8,7 +8,7 @@
 - [ ] Form Validation
 - [x] Clock
 - [ ] Guitar
-- [ ] Progress Bar
+- [x] Progress Bar
 - [x] Note
 - [ ] Quiz
 
@@ -33,3 +33,7 @@ Nothing Sherlock 🔎
 ## Todo List // 01-11-20
 
 Updating localStorage items...?
+
+## Progress Bar // 01-11-20
+
+Learned more about styling contents dynamically. JavaScript's getComputedStyle, parseInt, animating content from JS.
