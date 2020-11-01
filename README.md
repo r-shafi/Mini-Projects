@@ -4,7 +4,7 @@
 - [x] Popup
 - [x] Photo Gallery
 - [ ] Calculator
-- [ ] Todo List
+- [x] Todo List
 - [ ] Form Validation
 - [x] Clock
 - [ ] Guitar
@@ -29,3 +29,7 @@ I already knew everything
 ## Clock // 31-10-20
 
 Nothing Sherlock 🔎
+
+## Todo List // 01-11-20
+
+Updating localStorage items...?
