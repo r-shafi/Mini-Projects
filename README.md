@@ -10,7 +10,7 @@
 - [x] Guitar
 - [x] Progress Bar
 - [x] Note
-- [ ] Quiz
+- [x] Quiz
 
 # What did I learned from the projects?
 
@@ -42,3 +42,7 @@ Learned more about styling contents dynamically. JavaScript's getComputedStyle, 
 ## Guitar // 02-11-20
 
 JavaScript Audio method
+
+## Quiz // 02-11-20
+
+Better ways of capturing events

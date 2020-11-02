@@ -1,0 +1,428 @@
+{
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
+      "correct_answer": "Socrates",
+      "incorrect_answers": ["Aristotle", "Plato", "Pythagoras"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who played Stan's dog in the South Park episode 'Big Gay Al's Big Gay Boat Ride'?",
+      "correct_answer": "George Clooney",
+      "incorrect_answers": ["Jay Leno", "Matt Stone", "Robert Smith"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the first book of the Old Testament?",
+      "correct_answer": "Genesis",
+      "incorrect_answers": ["Exodus", "Leviticus", "Numbers"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the only country in the world with a flag that doesn't have four right angles?",
+      "correct_answer": "Nepal",
+      "incorrect_answers": ["Panama", "Angola", "Egypt"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The music video to The Buggle's 'Video Killed the Radio Star' was the first music video to broadcast on MTV.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The 'Gympie Stinger' is the deadliest plant in the world.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which European city has the highest mileage of canals in the world?",
+      "correct_answer": "Birmingham",
+      "incorrect_answers": ["Venice", "Amsterdam", "Berlin"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of his six wives was Henry VIII married to the longest?",
+      "correct_answer": "Catherine of Aragon",
+      "incorrect_answers": ["Anne Boleyn", "Jane Seymour", "Catherine Parr"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
+      "correct_answer": "Drill Containment Unit",
+      "incorrect_answers": [
+        "Anti-Gravity Hook",
+        "Influx Waver",
+        "Cosmic Car Key"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In World of Warcraft lore, who was first to have the title 'The Ashbringer'?",
+      "correct_answer": "Alexandros Mograine",
+      "incorrect_answers": [
+        "Tirion Fordring",
+        "Arthas Menethil",
+        "Uther the Lightbringer"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did the North American Video Game Crash occur?",
+      "correct_answer": "1983",
+      "incorrect_answers": ["1982", "1993", "1970"]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+      "correct_answer": "A",
+      "incorrect_answers": ["X", "D", "B"]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which supercar company is from Sweden?",
+      "correct_answer": "Koenigsegg",
+      "incorrect_answers": ["Bugatti", "Lamborghini", "McLaren"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Guy's Grocery Games is hosted by which presenter?",
+      "correct_answer": "Guy Fieri",
+      "incorrect_answers": ["Guy Martin", "Guy Ritchie", "Ainsley Harriott"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "After which Danish city is the 72th element on the periodic table named?",
+      "correct_answer": "Copenhagen",
+      "incorrect_answers": ["Odense", "Herning", "Skagen"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the 'Melancholy of Haruhi Suzumiya' series, the narrator goes by the nickname Kyon.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+      "correct_answer": "Prospit",
+      "incorrect_answers": ["No Name", "Golden City", "Yellow Moon"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who co-founded the YouTube Let's Play channel 'Game Grumps' alongside Newgrounds animator Egoraptor?",
+      "correct_answer": "JonTron",
+      "incorrect_answers": ["Pewdiepie", "Tobuscus", "Markiplier"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the frontman of Muse?",
+      "correct_answer": "Matt Bellamy",
+      "incorrect_answers": ["Dominic Howard", "Thom Yorke", "Jonny Greenwood"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Supernatural, what's is Sam's brothers name?",
+      "correct_answer": "Dean",
+      "incorrect_answers": ["Dave", "Steve", "Mike"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the video game 'Metal Gear Solid', what did Revolver Ocelot consider the greatest handgun ever made?",
+      "correct_answer": "Colt Single Action Army",
+      "incorrect_answers": [
+        "Colt Python",
+        "Colt M1892",
+        "Colt 1851 Navy Revolver"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+      "correct_answer": "Festung Recogne",
+      "incorrect_answers": ["Ste. Mere-Eglise (Day)", "Chateau", "Brecourt"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which character, in the game 'Morenatsu', has the most possible endings to their route, at a total of four different endings?",
+      "correct_answer": "Shin Kuroi",
+      "incorrect_answers": [
+        "Kouya Aotsuki",
+        "Soutarou Touno",
+        "Torahiko Ooshima"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which song in Drake's 'Views' features Future?",
+      "correct_answer": "Grammys",
+      "incorrect_answers": ["Too Good", "Faithful", "Pop Style"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first dual-core CPU was the Intel Pentium D.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was featured in the song 'Words' by Feint? ",
+      "correct_answer": "Laura Brehm",
+      "incorrect_answers": ["Anna Yvette ", "Danyka Nadeau", "Veela"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "correct_answer": "Franklin Pierce",
+      "incorrect_answers": ["Andrew Johnson", "Abraham Lincoln", "James Polk"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the designation given to the Marvel Cinematic Universe?",
+      "correct_answer": "Earth-199999",
+      "incorrect_answers": ["Earth-616", "Earth-10005", "Earth-2008"]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "One of Barack Obama's United States presidential campaign slogan's was 'Yes We Can'.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In RuneScape, one must complete the 'Dragon Slayer' quest before equipping Rune Platelegs.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+      "correct_answer": "The Flamingo",
+      "incorrect_answers": ["The MGM Grand", "The Sands", "The Sahara"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In 'Final Fantasy VI', what is the name of (summoned) Gilgamesh's weakest attack?",
+      "correct_answer": "Excalipoor",
+      "incorrect_answers": ["Excalibore", "Excalisnore", "Excalisore"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which person from 'JoJo's Bizarre Adventure' does NOT house a reference to a band, artist, or song earlier than 1980?",
+      "correct_answer": "Giorno Giovanna",
+      "incorrect_answers": [
+        "Josuke Higashikata",
+        "Jolyne Cujoh",
+        "Johnny Joestar"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year did 'Attack on Titan' first air?",
+      "correct_answer": "2013",
+      "incorrect_answers": ["2014", "2012", "2015"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which year was the third Super Bowl held?",
+      "correct_answer": "1969",
+      "incorrect_answers": ["1968", "1971", "1970"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who designed the Chupa Chups logo?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": ["Pablo Picasso", "Andy Warhol", "Vincent van Gogh"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Zodiac symbol for Gemini?",
+      "correct_answer": "Twins",
+      "incorrect_answers": ["Fish", "Scales", "Maiden"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the god of war in Polynesian mythology?",
+      "correct_answer": "'Oro",
+      "incorrect_answers": ["Hina", "Kohara", "M\u0101ui"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A Facebook campaign placed Rage Against The Machine's 'Killing in the Name Of' as the UK Christmas Number 1 in 2009.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+      "correct_answer": "Rick &amp; Morty",
+      "incorrect_answers": ["Family Guy", "South Park", "American Dad"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Slovakia is a member of European Union-",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": ["Danube", "Rhine", "Thames"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+      "correct_answer": "Liver",
+      "incorrect_answers": ["Heart", "Stomach", "Intestines"]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+      "correct_answer": "1729",
+      "incorrect_answers": ["91", "561", "4104"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the Greek god of peaceful deaths?",
+      "correct_answer": "Thanatos",
+      "incorrect_answers": ["Tartarus", "Hades", "Moros"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+      "correct_answer": "Graviton",
+      "incorrect_answers": ["Z boson", "Tau neutrino", "Gluon"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Frank Lloyd Wright was the architect behind what famous building?",
+      "correct_answer": "The Guggenheim",
+      "incorrect_answers": [
+        "Villa Savoye",
+        "Sydney Opera House",
+        "The Space Needle"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What animated internet character is known to answer emails with his boxing gloves?",
+      "correct_answer": "Strong Bad",
+      "incorrect_answers": ["Strong Sad", "Strong Mad", "Strong Glad"]
+    }
+  ]
+}
