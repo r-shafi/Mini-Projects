@@ -7,7 +7,7 @@
 - [x] Todo List
 - [ ] Form Validation
 - [x] Clock
-- [ ] Guitar
+- [x] Guitar
 - [x] Progress Bar
 - [x] Note
 - [ ] Quiz
@@ -37,3 +37,8 @@ Updating localStorage items...?
 ## Progress Bar // 01-11-20
 
 Learned more about styling contents dynamically. JavaScript's getComputedStyle, parseInt, animating content from JS.
+(Could use improvements)
+
+## Guitar // 02-11-20
+
+JavaScript Audio method

@@ -20,10 +20,14 @@ function fillUpdate() {
 
   csPer.innerText = `${parseInt((childWidth / parentWidth) * 100, 10)}%`;
 
-  // * Update JS-Bar width
-  jsPer.innerText = `${width}%`;
   // * Increase JS-Bar width by 5% every 100ms
   fill.style.width = `${(width += 5)}%`;
+  // * Update JS-Bar width
+  jsPer.innerText = `${width}%`;
 }
 
-setInterval(fillUpdate, 100);
+const intervalID = setInterval(fillUpdate, 100);
+
+if (width === 100) {
+  clearInterval(intervalID);
+}
