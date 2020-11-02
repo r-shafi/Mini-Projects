@@ -5,7 +5,7 @@
 - [x] Photo Gallery
 - [ ] Calculator
 - [x] Todo List
-- [ ] Form Validation
+- [x] Form Validation
 - [x] Clock
 - [x] Guitar
 - [x] Progress Bar
@@ -46,3 +46,7 @@ JavaScript Audio method
 ## Quiz // 02-11-20
 
 Better ways of capturing events
+
+## Form Validation // 02-11-20
+
+Found why submit button doesn't work on buttons, don't think I can ever learn JS, but who cares 🤷‍♂️

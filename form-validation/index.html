@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Validation</title>
+  </head>
+  <body>
+    <h1>Sign Up With US!</h1>
+
+    <form>
+      <main>
+        <label for="name">Name:</label>
+        <input type="text" id="name" required />
+        <p class="error name-error">Name Error!</p>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required />
+        <p class="error email-error">Email Error!</p>
+        <label for="tel">Phone:</label>
+        <input type="tel" id="tel" required />
+        <label for="pass">Password:</label>
+        <div class="pass-pos">
+          <input
+            type="password"
+            id="pass"
+            autocomplete="new-password"
+            required
+          />
+          <button id="show-pass" type="button">👀</button>
+        </div>
+        <p class="error pass-error">Password Error!</p>
+        <button type="submit" id="sign-up">Sign Up</button>
+      </main>
+    </form>
+    <div class="success">
+      <p>Sign-Up Success, Please check verification email!</p>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
