@@ -49,4 +49,4 @@ Better ways of capturing events
 
 ## Form Validation // 02-11-20
 
-Found why submit button doesn't work on buttons, don't think I can ever learn JS, but who cares 🤷‍♂️
+Found why submit button doesn't work on buttons, don't think I can ever learn regex, but who cares 🤷‍♂️
