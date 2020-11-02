@@ -1,7 +1,3 @@
-alert(
-  "I AM SORRY THAT THE CHORDS ARE PLAYING A BIT LATE, NOT MY FAULT, THAT'S THE MP3 FILES FAULT."
-);
-
 const chords = document.querySelectorAll('.chord');
 
 const sounds = {
@@ -21,14 +17,24 @@ let prevChord;
 
 chords.forEach((chord) =>
   chord.addEventListener('click', (e) => {
-    prevChord ? sounds[prevChord].pause() : null;
+    prevChord
+      ? (() => {
+          sounds[prevChord].pause();
+          sounds[prevChord].currentTime = 0;
+        })()
+      : null;
     sounds[e.target.classList[1]].play();
     prevChord = e.target.classList[1];
   })
 );
 
 function keyboard(e) {
-  prevChord ? sounds[prevChord].pause() : null;
+  prevChord
+    ? (() => {
+        sounds[prevChord].pause();
+        sounds[prevChord].currentTime = 0;
+      })()
+    : null;
 
   switch (e.keyCode) {
     case 65:
@@ -72,7 +78,7 @@ function keyboard(e) {
       prevChord = 'cz';
       break;
     default:
-      console.log('Not a chord 🤷‍♂️');
+      null;
       break;
   }
 }
