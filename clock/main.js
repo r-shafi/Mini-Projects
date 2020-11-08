@@ -1,7 +1,6 @@
 const timeBody = document.querySelector('.now');
 const dateBody = document.querySelector('.date');
 
-// const format = document.querySelector('[name="format"]').value;
 let format = '24H';
 
 const radioButtons = document.querySelectorAll('[type="radio"]');
