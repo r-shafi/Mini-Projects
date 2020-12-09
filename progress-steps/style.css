@@ -1,0 +1,49 @@
+.progress {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.step {
+  height: 5px;
+  width: 0%;
+  background-color: yellowgreen;
+  z-index: -1;
+  position: absolute;
+  transition: 0.4s;
+}
+
+.circle {
+  height: 3rem;
+  width: 3rem;
+  font-weight: bold;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #581b98;
+}
+
+.active {
+  background: #9c1de7;
+  color: #faee1c;
+}
+
+.done {
+  background: #9c1de7;
+  color: #faee1c;
+}
+
+.controls {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls button {
+  font-size: 1.2rem;
+  padding: 0.25rem 1rem;
+  margin: 0 0.5rem;
+}

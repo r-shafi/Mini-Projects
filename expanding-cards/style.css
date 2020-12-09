@@ -1,0 +1,30 @@
+.horizontal-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card {
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  flex: 1;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.card:hover {
+  flex: 2;
+}
+
+.card:hover > h1 {
+  display: block;
+}
+
+.card h1 {
+  display: none;
+  padding: 1rem;
+}
