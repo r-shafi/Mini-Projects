@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+      <div class="circle-container">
+        <div class="circle">
+          <button>☝👇</button>
+        </div>
+      </div>
+      <div class="content">
+        <h1>Lorem, ipsum.</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
+          culpa ducimus sunt beatae dolorem eius et animi, dicta consequatur qui
+          repudiandae, nam sit cumque adipisci, quam fugit nisi similique
+          corporis!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
+          culpa ducimus sunt beatae dolorem eius et animi, dicta consequatur qui
+          repudiandae, nam sit cumque adipisci, quam fugit nisi similique
+          corporis!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
+          culpa ducimus sunt beatae dolorem eius et animi, dicta consequatur qui
+          repudiandae, nam sit cumque adipisci, quam fugit nisi similique
+          corporis!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
+          culpa ducimus sunt beatae dolorem eius et animi, dicta consequatur qui
+          repudiandae, nam sit cumque adipisci, quam fugit nisi similique
+          corporis!
+        </p>
+      </div>
+    </div>
+    <script>
+      const btn = document.querySelector('button');
+      btn.addEventListener('click', () => {
+        document.querySelector('.container').classList.toggle('show-nav');
+      });
+    </script>
+  </body>
+</html>
