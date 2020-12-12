@@ -1,4 +1,29 @@
+:root {
+  --title: #ff6768;
+  --background: #24292f;
+  --text: #ffffff;
+  --shadow: rgba(0, 0, 0, 0.4);
+  --link: #ff7c7d;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .horizontal-div {
+  width: 90vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -14,6 +39,7 @@
   flex: 1;
   transition: 0.3s;
   cursor: pointer;
+  margin: 0 0.5rem;
 }
 
 .card:hover {
