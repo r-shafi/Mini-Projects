@@ -1,17 +1,26 @@
+:root {
+  --title: #ff6768;
+  --background: #24292f;
+  --text: #ffffff;
+  --shadow: rgba(0, 0, 0, 0.4);
+  --link: #ff7c7d;
+}
+
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+  font-family: monospace;
 }
 
 body {
-  font-family: 'Lato', sans-serif;
-  background-color: rgb(20, 20, 20);
-  color: rgb(202, 196, 188);
+  background: var(--text);
+  color: var(--background);
   overflow-x: hidden;
-  margin: 0;
 }
 
 .container {
-  background-color: #000000;
+  background: var(--background);
   transform-origin: top left;
   transition: transform 0.5s linear;
   width: 100vw;
@@ -30,7 +39,7 @@ body {
 }
 
 .circle {
-  background-color: #ffae00;
+  background-color: var(--title);
   height: 200px;
   width: 200px;
   border-radius: 50%;
@@ -42,7 +51,7 @@ body {
   cursor: pointer;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 60%;
   height: 100px;
   background: transparent;
   border: 0;
@@ -73,10 +82,12 @@ nav ul {
 
 nav ul li {
   text-transform: uppercase;
-  color: #fff;
+  color: var(--background);
   margin: 40px 0;
-  transform: translateX(-200%);
+  transform: translateX(-150%);
   transition: transform 0.4s ease-in;
+  font-size: 1.5rem;
+  cursor: pointer;
 }
 
 .content img {
@@ -93,11 +104,12 @@ nav ul li {
 }
 
 .content small {
-  color: #555;
+  color: var(--text);
   font-style: italic;
 }
 
 .content p {
-  color: rgb(150, 150, 150);
+  color: var(--text);
   line-height: 1.5;
+  font-size: 1.2rem;
 }
